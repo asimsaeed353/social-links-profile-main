@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-card-using-css-3wMNl68sY0)
 - Live Site URL: [Live Site](https://asimsaeed353.github.io/social-links-profile-main/)
 
 ## My process
