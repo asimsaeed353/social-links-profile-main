@@ -44,7 +44,7 @@ body {
   background-color: var(--grey-900);
 }
 
-#container {
+.container {
   height: 75%;
   width: 22%;
   border: none;
@@ -57,7 +57,7 @@ body {
   background-color: var(--grey-800);
 }
 
-#container img {
+.container img {
   width: 60px;
   height: 60px;
   border-radius: 30px;
@@ -76,7 +76,7 @@ body {
   word-spacing: 2px;
   letter-spacing: 0.7px;
 }
-.about h5 {
+.about h4 {
   color: var(--green);
   font-size: 0.8rem;
   font-weight: var(--fw-600);
@@ -104,15 +104,21 @@ body {
   cursor: pointer;
 }
 
-.link p {
+.link a {
   font-size: 0.75rem;
   font-weight: var(--fw-600);
   letter-spacing: 0.25px;
+  text-decoration: none;
+  color: var(--white);
+  cursor: pointer;
+}
+
+.link a:hover {
+  color: var(--grey-700);
 }
 
 .link:hover {
   background-color: var(--green);
-  color: var(--grey-700);
 }
 
 @media (min-width: 370px) {
@@ -120,7 +126,7 @@ body {
     width: 100%;
     height: 100vh;
   }
-  #container {
+  .container {
     width: fit-content;
     height: fit-content;
   }
@@ -128,7 +134,7 @@ body {
 
 .attribution {
   color: black;
-  font-size: 11px;
+  font-size: 0.7rem;
   text-align: center;
 }
 .attribution a {
