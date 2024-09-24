@@ -12,8 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -43,4 +41,4 @@ Users should be able to:
 
 ### What I learned
 
-This lesson improved my learning of using media queries and making website responsive. This challenge provided a great opportunity to practice my CSS skills especially FlexBox and Text Styling
+This challenge improved my learning of using media queries and making website responsive. This challenge provided a great opportunity to practice my CSS skills especially FlexBox and Text Styling
